@@ -30,8 +30,14 @@ public class Lista_cereri_interfata extends JFrame {
 
 	/**
 	 * Create the frame.
-	 */
-	public Lista_cereri_interfata() {
+	 */ 
+	
+	
+	
+	
+	
+	public Lista_cereri_interfata()       
+	{
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setSize(1650,750);
 		contentPane = new JPanel();
